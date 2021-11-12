@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wongsakorn Pinvasee (You can call me Sun.)</h1>
+<h1 align="center">Hi 👋, I'm Wongsakorn Pinvasee (You can call me Sun)</h1>
 <h3 align="center">Now, I'm currently studying Computer Science at Kasetsart University. I'm interested in data engineering, data science, NLP, and AI.</h3>
 
 - 🌱 I’m currently learning **Hadoop**
