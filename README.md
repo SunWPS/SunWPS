@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wongsakorn Pinvasee</h1>
-<h3 align="center">I'm currently a data engineer. I'm interested in data engineering, data science, NLP, and AI.from India</h3>
+<h3 align="center">I'm currently a data engineer. I'm interested in data engineering, data science, NLP, and AI.</h3>
 
 - 📫 How to reach me **wongsakorn.pinv@gmail.com**
 
